@@ -25,6 +25,6 @@
     "dynamodb-localhost": "0.0.7"
   },
   "devDependencies": {
-    "serverless-offline": "^4.10.5"
+    "serverless-offline": "^12.0.3"
   }
 }
